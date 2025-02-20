@@ -8,7 +8,8 @@ This repository contains Python implementations of various classical cryptograph
 2. **Monoalphabetic Cipher** - A substitution cipher where each letter in the plaintext is replaced with a corresponding letter from a fixed shuffled alphabet.
 3. **Playfair Cipher** - A digraph substitution cipher that encrypts pairs of letters using a 5x5 matrix.
 4. **Hill Cipher** - A polygraphic substitution cipher based on matrix multiplication.
-
+5. **Vigenere Ciphe** -Vigenere Cipher is a method of encrypting alphabetic text. It uses a simple form of polyalphabetic substitution
+6. **Fiestel Cipher** - Feistel Cipher model is a structure or a design used to develop many block ciphers such as DES
 ## Prerequisites
 
 Ensure you have Python installed on your system. You can check by running:
