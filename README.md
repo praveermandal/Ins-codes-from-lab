@@ -33,19 +33,26 @@ Each cipher program is a standalone script. Follow these steps to run them:
 2. **Run a specific cipher**
 
    ```sh
-   python caesar_cipher.py
+   python caesarcipher.py
    ```
 
    ```sh
-   python monoalphabetic_cipher.py
+   python monoalphabeticcipher.py
    ```
 
    ```sh
-   python playfair_cipher.py
+   python playfaircipher.py
    ```
 
    ```sh
-   python hill_cipher.py
+   python hillcipher.py
+   ```
+
+    ```sh
+   python fiestelcipher.py
+   ```
+    ```sh
+   python vigenerecipher.py
    ```
 
 3. **Follow the on-screen instructions** to encrypt or decrypt messages using the respective ciphers.
